@@ -9,6 +9,7 @@ def mat_mul(A, B):
 
 # Matrix multiplication with Algorithmic Based Fault Tolerance (ABFT)
 def abft_mat_mul(A, B):
+    for
     return null
 
 asdf = [[1,2,3],[4,5,6],[7,8,9]]
