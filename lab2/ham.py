@@ -55,3 +55,6 @@ if __name__ == '__main__':
     elif (option == 'd'):
         d_word = input("\nEnter value to decode: ")
         print(decode(d_word))
+
+    else:
+        print("Option not available")

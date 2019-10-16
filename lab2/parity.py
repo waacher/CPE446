@@ -28,6 +28,16 @@ def decode_parity(n):
         return bin(n)[2:-1]
 
 if __name__ == '__main__':
-    #print(add_parity(5))
-    print(decode_parity(4))
+    option = input("Press 'e' to encode or 'd' to decode: ")
+
+    if (option == 'e'):
+        e_word = input("\nEnter value to encode: ")
+        print(add_parity(int(e_word)))
+    
+    elif (option == 'd'):
+        d_word = input("\nEnter value to decode: ")
+        print(decode_parity(d_word))
+
+    else:
+        print("Option not available")
 
