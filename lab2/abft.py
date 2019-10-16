@@ -8,25 +8,39 @@ def mat_mul(A, B):
     return [[sum(x*y for x,y in zip(row, col)) for col in b] for row in A]
 
 # Matrix multiplication with Algorithmic Based Fault Tolerance (ABFT)
+# Assumes checksums are correct
 def abft_mat_mul(A, B):
 
     res = mat_mul(A,B)
-    res = [[30,36,42], [66,81,96], [102,126,150]]
+    # For testing errors
+    # res = [[30,36,42], [66,81,96], [103,126,150]]
 
     mat_checksum(A)
     mat_checksum(B)
-   
+
     row_sums = [row[-1] for row in mat_mul(A[:-1], B[:-1])]
     col_sums = mat_mul(A, B)[-1][:-1]
 
+    row_errors = []
+    col_errors = []
+
     for i in range(len(res)):
         if (sum(res[i]) != row_sums[i]):
-            print("Possible error in row: " + str(i+1), end="", flush=True)
-    
+            row_errors.append(i+1)
+
     for i in range(len(res[0])):
         column = [row[i] for row in res]
         if (sum(column) != col_sums[i]):
-            print(" col: " + str(i+1))
+            col_errors.append(i+1)
+    
+    if (len(row_errors) + len(col_errors) == 0):
+        return res
+    elif (len(row_errors) != len(col_errors)):
+        print("Cannot detect error(s) (either checksums or multiplication)")
+    elif (len(row_errors) == 1):
+        print("Possible error in row " + str(row_errors[0]) + " col " + str(col_errors[0]))
+    else:
+        print("Multiple errors detected: cannot guarantee validity of computation")
 
     return res
 
