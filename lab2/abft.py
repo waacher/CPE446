@@ -11,7 +11,8 @@ def mat_mul(A, B):
 def abft_mat_mul(A, B):
 
     res = mat_mul(A,B)
-    res = [[30,36,42], [66,81,96], [102,126,150]]
+    # Insert errors here for testing 
+    # res = [[30,36,42], [66,81,96], [102,126,150]]
 
     mat_checksum(A)
     mat_checksum(B)
