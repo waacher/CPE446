@@ -1,0 +1,2233 @@
+Pin: pin-3.11-97998-7ecce2dac
+Copyright 2002-2019 Intel Corporation.
+ Invalid RTN mov rcx, qword ptr [rip+0x34c1e1]
+ Invalid RTN lea rax, ptr [rip+0x1c842]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804ce5
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804cf0
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af804d20
+ Invalid RTN test byte ptr [rcx+0x79], 0x2
+ Invalid RTN jz 0x7fa3af804cb1
+ Invalid RTN test edx, 0x40000
+ Invalid RTN jz 0x7fa3af804cd0
+ Invalid RTN test byte ptr [rcx+0x85], 0x2
+ Invalid RTN lea rdx, ptr [rip+0x1c861]
+ Invalid RTN lea rax, ptr [rip+0x1c79a]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN and edx, 0x2
+ Invalid RTN lea rax, ptr [rip+0xd0446]
+ Invalid RTN lea rdx, ptr [rip+0xd5aaf]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34d111]
+ Invalid RTN lea rax, ptr [rip+0x18e22]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af803d6d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0xac7e]
+ Invalid RTN lea rdx, ptr [rip+0xdf397]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34bf01]
+ Invalid RTN lea rax, ptr [rip+0xec022]
+ Invalid RTN mov ecx, dword ptr [rdx+0xb4]
+ Invalid RTN test cl, 0x40
+ Invalid RTN jnz 0x7fa3af804f95
+ Invalid RTN mov edx, dword ptr [rdx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af804f80
+ Invalid RTN and ch, 0x2
+ Invalid RTN lea rax, ptr [rip+0xe7572]
+ Invalid RTN jz 0x7fa3af804f95
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xd6e6]
+ Invalid RTN lea rdx, ptr [rip+0xd830f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34d6c1]
+ Invalid RTN lea rax, ptr [rip+0x1bd92]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af8037bd
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x1bbbe]
+ Invalid RTN lea rdx, ptr [rip+0x14227]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d0e1]
+ Invalid RTN lea rdx, ptr [rip+0xf0642]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1359b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN lea rax, ptr [rip+0xe0de1]
+ Invalid RTN sub rsp, 0x28
+ Invalid RTN lea rcx, ptr [rip+0xe0ddb]
+ Invalid RTN mov edx, 0x5f
+ Invalid RTN mov qword ptr [rsp], rax
+ Invalid RTN mov rax, 0x103ae75f6
+ Invalid RTN mov qword ptr [rsp+0x8], rax
+ Invalid RTN mov eax, 0x50e3a8
+ Invalid RTN shl rax, 0x4
+ Invalid RTN add rcx, 0x1
+ Invalid RTN add rax, rdx
+ Invalid RTN mov rdx, rax
+ Invalid RTN shr rdx, 0x18
+ Invalid RTN and edx, 0xf0
+ Invalid RTN xor rax, rdx
+ Invalid RTN movzx edx, byte ptr [rcx]
+ Invalid RTN test dl, dl
+ Invalid RTN jnz 0x7fa3af8389af
+ Invalid RTN and eax, 0xfffffff
+ Invalid RTN cmp rax, 0x3ae75f6
+ Invalid RTN jnz 0x7fa3af838a09
+ Invalid RTN lea rdi, ptr [rip+0xe27f0]
+ Invalid RTN mov rsi, rsp
+ Invalid RTN mov qword ptr [rsp+0x10], 0x0
+ Invalid RTN call 0x7fa3af8cd3b0
+ Invalid RTN shl rax, 0x4
+ Invalid RTN add rcx, 0x1
+ Invalid RTN add rax, rdx
+ Invalid RTN mov rdx, rax
+ Invalid RTN shr rdx, 0x18
+ Invalid RTN and edx, 0xf0
+ Invalid RTN xor rax, rdx
+ Invalid RTN movzx edx, byte ptr [rcx]
+ Invalid RTN test dl, dl
+ Invalid RTN jnz 0x7fa3af8389af
+ Invalid RTN and eax, 0xfffffff
+ Invalid RTN cmp rax, 0x3ae75f6
+ Invalid RTN jnz 0x7fa3af838a09
+ Invalid RTN lea rdi, ptr [rip+0xe27f0]
+ Invalid RTN mov rsi, rsp
+ Invalid RTN mov qword ptr [rsp+0x10], 0x0
+ Invalid RTN call 0x7fa3af8cd3b0
+ Invalid RTN sub rsp, 0x38
+ Invalid RTN mov r8, rsi
+ Invalid RTN mov rax, qword ptr fs:[0x28]
+ Invalid RTN mov qword ptr [rsp+0x28], rax
+ Invalid RTN xor eax, eax
+ Invalid RTN mov rax, qword ptr [rip+0x283a8a]
+ Invalid RTN mov rsi, qword ptr [rax+0x158]
+ Invalid RTN test rsi, rsi
+ Invalid RTN jz 0x7fa3af8cd450
+ Invalid RTN pxor xmm0, xmm0
+ Invalid RTN lea rdx, ptr [rsp+0x10]
+ Invalid RTN mov qword ptr [rsp+0x20], 0x0
+ Invalid RTN lea rcx, ptr [rsi+0x388]
+ Invalid RTN xor r9d, r9d
+ Invalid RTN mov qword ptr [rsp+0x8], rdx
+ Invalid RTN lea rdx, ptr [rsp+0x8]
+ Invalid RTN movaps xmmword ptr [rsp+0x10], xmm0
+ Invalid RTN mov byte ptr [rsp+0x14], 0x20
+ Invalid RTN push 0x0
+ Invalid RTN push 0x0
+ Invalid RTN call qword ptr [rax+0x178]
+ Invalid RTN mov rcx, qword ptr [rsp+0x18]
+ Invalid RTN pop rdx
+ Invalid RTN xor edx, edx
+ Invalid RTN test rcx, rcx
+ Invalid RTN pop rsi
+ Invalid RTN jz 0x7fa3af8cd42e
+ Invalid RTN test rax, rax
+ Invalid RTN jz 0x7fa3af8cd42a
+ Invalid RTN mov rdx, qword ptr [rax]
+ Invalid RTN add rdx, qword ptr [rcx+0x8]
+ Invalid RTN mov rdi, qword ptr [rsp+0x28]
+ Invalid RTN xor rdi, qword ptr fs:[0x28]
+ Invalid RTN mov rax, rdx
+ Invalid RTN jnz 0x7fa3af8cd454
+ Invalid RTN add rsp, 0x38
+ Invalid RTN ret 
+ Invalid RTN lea rdx, ptr [rip-0x8d]
+ Invalid RTN test rax, rax
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN add rsp, 0x28
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34a691]
+ Invalid RTN lea rdx, ptr [rip+0xe9f22]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0xb4bb]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x32da41]
+ Invalid RTN lea rdx, ptr [rip+0xd1fb2]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x12d0b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34c071]
+ Invalid RTN lea rax, ptr [rip+0x1c6b2]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804e55
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804e60
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af804e90
+ Invalid RTN test byte ptr [rcx+0x79], 0x2
+ Invalid RTN jz 0x7fa3af804e21
+ Invalid RTN test edx, 0x40000
+ Invalid RTN jz 0x7fa3af804e40
+ Invalid RTN test byte ptr [rcx+0x85], 0x2
+ Invalid RTN lea rdx, ptr [rip+0x1c6d1]
+ Invalid RTN lea rax, ptr [rip+0x1c60a]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN and edx, 0x2
+ Invalid RTN lea rax, ptr [rip+0xcd8e6]
+ Invalid RTN lea rdx, ptr [rip+0xd2e4f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34c241]
+ Invalid RTN mov ecx, dword ptr [rax+0xb4]
+ Invalid RTN mov edx, dword ptr [rax+0x78]
+ Invalid RTN mov eax, ecx
+ Invalid RTN and eax, 0x20400
+ Invalid RTN cmp eax, 0x400
+ Invalid RTN jz 0x7fa3af804c58
+ Invalid RTN test edx, 0x80000
+ Invalid RTN lea rax, ptr [rip+0xf1385]
+ Invalid RTN jnz 0x7fa3af804c52
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xd629]
+ Invalid RTN lea rdx, ptr [rip+0xf4ca2]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34d151]
+ Invalid RTN mov edx, dword ptr [rcx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af803d22
+ Invalid RTN test byte ptr [rcx+0xb5], 0x2
+ Invalid RTN lea rax, ptr [rip+0xe77f0]
+ Invalid RTN jz 0x7fa3af803d37
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xc3f4]
+ Invalid RTN lea rdx, ptr [rip+0xcd28d]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xc3f4]
+ Invalid RTN lea rdx, ptr [rip+0xcd28d]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34d651]
+ Invalid RTN lea rax, ptr [rip+0xc662]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af80382d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0xb20e]
+ Invalid RTN lea rdx, ptr [rip+0xcc537]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34c111]
+ Invalid RTN lea rax, ptr [rip+0x1cb62]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804da4
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804db0
+ Invalid RTN mov eax, dword ptr [rcx+0x84]
+ Invalid RTN and eax, 0x200
+ Invalid RTN and dh, 0x4
+ Invalid RTN jz 0x7fa3af804d90
+ Invalid RTN test eax, eax
+ Invalid RTN lea rdx, ptr [rip+0x1cb37]
+ Invalid RTN lea rax, ptr [rip+0x1cad0]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x32ed61]
+ Invalid RTN lea rdx, ptr [rip+0xd35a2]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1438b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d1b1]
+ Invalid RTN lea rdx, ptr [rip+0xf0a72]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x13afb]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d5e1]
+ Invalid RTN lea rdx, ptr [rip+0xec7f2]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d9c7]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34beb1]
+ Invalid RTN lea rax, ptr [rip+0xed642]
+ Invalid RTN mov ecx, dword ptr [rdx+0xb4]
+ Invalid RTN test cl, 0x40
+ Invalid RTN jnz 0x7fa3af804fe5
+ Invalid RTN mov edx, dword ptr [rdx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af804fd0
+ Invalid RTN and ch, 0x2
+ Invalid RTN lea rax, ptr [rip+0xe90d2]
+ Invalid RTN jz 0x7fa3af804fe5
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xf8d6]
+ Invalid RTN lea rdx, ptr [rip+0xda40f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34d611]
+ Invalid RTN lea rax, ptr [rip+0x18cf2]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af80386d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x18b1e]
+ Invalid RTN lea rdx, ptr [rip+0xde0e7]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34bd71]
+ Invalid RTN lea rax, ptr [rip+0x1c3d2]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af805155
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af805160
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af805190
+ Invalid RTN test byte ptr [rcx+0x79], 0x2
+ Invalid RTN jz 0x7fa3af805121
+ Invalid RTN test edx, 0x40000
+ Invalid RTN jz 0x7fa3af805140
+ Invalid RTN test byte ptr [rcx+0x85], 0x2
+ Invalid RTN lea rdx, ptr [rip+0x1c3f1]
+ Invalid RTN lea rax, ptr [rip+0x1c32a]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN and edx, 0x2
+ Invalid RTN lea rax, ptr [rip+0xcd606]
+ Invalid RTN lea rdx, ptr [rip+0xd2b6f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x32c791]
+ Invalid RTN lea rax, ptr [rip+0xd15a2]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN and edx, 0x20c00
+ Invalid RTN cmp edx, 0xc00
+ Invalid RTN jz 0x7fa3af8246f8
+ Invalid RTN test byte ptr [rcx+0x7a], 0x8
+ Invalid RTN lea rax, ptr [rip+0x12473]
+ Invalid RTN lea rdx, ptr [rip+0x1224c]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x32d991]
+ Invalid RTN mov edx, dword ptr [rax+0xb4]
+ Invalid RTN lea rax, ptr [rip-0x1c94]
+ Invalid RTN mov ecx, edx
+ Invalid RTN and ecx, 0x20c00
+ Invalid RTN cmp ecx, 0xc00
+ Invalid RTN jz 0x7fa3af8234f0
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d0b1]
+ Invalid RTN lea rdx, ptr [rip+0xec402]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d537]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d691]
+ Invalid RTN mov edx, dword ptr [rax+0xb4]
+ Invalid RTN lea rax, ptr [rip+0xf07cc]
+ Invalid RTN mov ecx, edx
+ Invalid RTN and ecx, 0x20c00
+ Invalid RTN cmp ecx, 0xc00
+ Invalid RTN jz 0x7fa3af8037f9
+ Invalid RTN and edx, 0x4
+ Invalid RTN lea rax, ptr [rip+0x13712]
+ Invalid RTN lea rdx, ptr [rip+0xf5ddb]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d1e1]
+ Invalid RTN lea rdx, ptr [rip+0xf0912]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1398b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x342791]
+ Invalid RTN lea rdx, ptr [rip+0xe2162]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x37bb]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34be61]
+ Invalid RTN lea rax, ptr [rip+0xebf92]
+ Invalid RTN mov ecx, dword ptr [rdx+0xb4]
+ Invalid RTN test cl, 0x40
+ Invalid RTN jnz 0x7fa3af805035
+ Invalid RTN mov edx, dword ptr [rdx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af805020
+ Invalid RTN and ch, 0x2
+ Invalid RTN lea rax, ptr [rip+0xe74e2]
+ Invalid RTN jz 0x7fa3af805035
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xd656]
+ Invalid RTN lea rdx, ptr [rip+0xd827f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34c271]
+ Invalid RTN lea rdx, ptr [rip+0xeb832]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0xcd6b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x32dfa1]
+ Invalid RTN lea rdx, ptr [rip+0xd2c02]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x13d2b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34ce01]
+ Invalid RTN lea rdx, ptr [rip+0xec2a2]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d327]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34bf31]
+ Invalid RTN lea rax, ptr [rip+0x192d2]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af804f4d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x9a3e]
+ Invalid RTN lea rdx, ptr [rip+0xe2547]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34bf61]
+ Invalid RTN lea rax, ptr [rip+0x18c52]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af804f1d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x1754e]
+ Invalid RTN lea rdx, ptr [rip+0xe0d67]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34a661]
+ Invalid RTN lea rdx, ptr [rip+0xed9d2]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1090b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34be11]
+ Invalid RTN lea rax, ptr [rip+0xed5b2]
+ Invalid RTN mov ecx, dword ptr [rdx+0xb4]
+ Invalid RTN test cl, 0x40
+ Invalid RTN jnz 0x7fa3af805085
+ Invalid RTN mov edx, dword ptr [rdx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af805070
+ Invalid RTN and ch, 0x2
+ Invalid RTN lea rax, ptr [rip+0xe9042]
+ Invalid RTN jz 0x7fa3af805085
+ Invalid RTN and dh, 0x2
+ Invalid RTN lea rax, ptr [rip+0xf846]
+ Invalid RTN lea rdx, ptr [rip+0xda37f]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN lea rax, ptr [rip+0xe0d01]
+ Invalid RTN sub rsp, 0x28
+ Invalid RTN lea rcx, ptr [rip+0xe0cfb]
+ Invalid RTN mov edx, 0x5f
+ Invalid RTN mov qword ptr [rsp], rax
+ Invalid RTN mov rax, 0x103ae75f6
+ Invalid RTN mov qword ptr [rsp+0x8], rax
+ Invalid RTN mov eax, 0x50e3a8
+ Invalid RTN shl rax, 0x4
+ Invalid RTN add rcx, 0x1
+ Invalid RTN add rax, rdx
+ Invalid RTN mov rdx, rax
+ Invalid RTN shr rdx, 0x18
+ Invalid RTN and edx, 0xf0
+ Invalid RTN xor rax, rdx
+ Invalid RTN movzx edx, byte ptr [rcx]
+ Invalid RTN test dl, dl
+ Invalid RTN jnz 0x7fa3af838a8f
+ Invalid RTN and eax, 0xfffffff
+ Invalid RTN cmp rax, 0x3ae75f6
+ Invalid RTN jnz 0x7fa3af838ae9
+ Invalid RTN lea rdi, ptr [rip+0xe271c]
+ Invalid RTN mov rsi, rsp
+ Invalid RTN mov qword ptr [rsp+0x10], 0x0
+ Invalid RTN call 0x7fa3af8cd3b0
+ Invalid RTN shl rax, 0x4
+ Invalid RTN add rcx, 0x1
+ Invalid RTN add rax, rdx
+ Invalid RTN mov rdx, rax
+ Invalid RTN shr rdx, 0x18
+ Invalid RTN and edx, 0xf0
+ Invalid RTN xor rax, rdx
+ Invalid RTN movzx edx, byte ptr [rcx]
+ Invalid RTN test dl, dl
+ Invalid RTN jnz 0x7fa3af838a8f
+ Invalid RTN and eax, 0xfffffff
+ Invalid RTN cmp rax, 0x3ae75f6
+ Invalid RTN jnz 0x7fa3af838ae9
+ Invalid RTN lea rdi, ptr [rip+0xe271c]
+ Invalid RTN mov rsi, rsp
+ Invalid RTN mov qword ptr [rsp+0x10], 0x0
+ Invalid RTN call 0x7fa3af8cd3b0
+ Invalid RTN lea rdx, ptr [rip-0xad]
+ Invalid RTN test rax, rax
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN add rsp, 0x28
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34c1e1]
+ Invalid RTN lea rax, ptr [rip+0x1c842]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804ce5
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804cf0
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af804d20
+ Invalid RTN mov rax, qword ptr [rip+0x34c331]
+ Invalid RTN lea rdx, ptr [rip-0x59e]
+ Invalid RTN test byte ptr [rax+0xb4], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1c274]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34bf01]
+ Invalid RTN lea rax, ptr [rip+0xec022]
+ Invalid RTN mov ecx, dword ptr [rdx+0xb4]
+ Invalid RTN test cl, 0x40
+ Invalid RTN jnz 0x7fa3af804f95
+ Invalid RTN mov edx, dword ptr [rdx+0x78]
+ Invalid RTN test edx, 0x100000
+ Invalid RTN jz 0x7fa3af804f80
+ Invalid RTN and ch, 0x2
+ Invalid RTN lea rax, ptr [rip+0xe7572]
+ Invalid RTN jz 0x7fa3af804f95
+ Invalid RTN mov rdx, qword ptr [rip+0x34d611]
+ Invalid RTN lea rax, ptr [rip+0x18cf2]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af80386d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x18b1e]
+ Invalid RTN lea rdx, ptr [rip+0xde0e7]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34a661]
+ Invalid RTN lea rdx, ptr [rip+0xed9d2]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1090b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34bf61]
+ Invalid RTN lea rax, ptr [rip+0x18c52]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af804f1d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0x1754e]
+ Invalid RTN lea rdx, ptr [rip+0xe0d67]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d1e1]
+ Invalid RTN lea rdx, ptr [rip+0xf0912]
+ Invalid RTN mov eax, dword ptr [rax+0xb4]
+ Invalid RTN and eax, 0x20c00
+ Invalid RTN cmp eax, 0xc00
+ Invalid RTN lea rax, ptr [rip+0x1398b]
+ Invalid RTN cmovz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d691]
+ Invalid RTN mov edx, dword ptr [rax+0xb4]
+ Invalid RTN lea rax, ptr [rip+0xf07cc]
+ Invalid RTN mov ecx, edx
+ Invalid RTN and ecx, 0x20c00
+ Invalid RTN cmp ecx, 0xc00
+ Invalid RTN jz 0x7fa3af8037f9
+ Invalid RTN and edx, 0x4
+ Invalid RTN lea rax, ptr [rip+0x13712]
+ Invalid RTN lea rdx, ptr [rip+0xf5ddb]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34ce01]
+ Invalid RTN lea rdx, ptr [rip+0xec2a2]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d327]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rax, qword ptr [rip+0x34d5e1]
+ Invalid RTN lea rdx, ptr [rip+0xec7f2]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d9c7]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rdx, qword ptr [rip+0x34d651]
+ Invalid RTN lea rax, ptr [rip+0xc662]
+ Invalid RTN test byte ptr [rdx+0xb4], 0x10
+ Invalid RTN jnz 0x7fa3af80382d
+ Invalid RTN test byte ptr [rdx+0x79], 0x2
+ Invalid RTN lea rax, ptr [rip+0xb20e]
+ Invalid RTN lea rdx, ptr [rip+0xcc537]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34bd71]
+ Invalid RTN lea rax, ptr [rip+0x1c3d2]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af805155
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af805160
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af805190
+ Invalid RTN mov rax, qword ptr [rip+0x34d0b1]
+ Invalid RTN lea rdx, ptr [rip+0xec402]
+ Invalid RTN test byte ptr [rax+0x7a], 0x10
+ Invalid RTN lea rax, ptr [rip+0x1d537]
+ Invalid RTN cmovnz rax, rdx
+ Invalid RTN ret 
+ Invalid RTN mov rcx, qword ptr [rip+0x34c071]
+ Invalid RTN lea rax, ptr [rip+0x1c6b2]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804e55
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804e60
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af804e90
+ Invalid RTN mov rcx, qword ptr [rip+0x34c1e1]
+ Invalid RTN lea rax, ptr [rip+0x1c842]
+ Invalid RTN mov edx, dword ptr [rcx+0xb4]
+ Invalid RTN test edx, 0x80000
+ Invalid RTN jnz 0x7fa3af804ce5
+ Invalid RTN mov eax, edx
+ Invalid RTN and eax, 0x101000
+ Invalid RTN cmp eax, 0x1000
+ Invalid RTN jz 0x7fa3af804cf0
+ Invalid RTN test dh, 0x8
+ Invalid RTN jnz 0x7fa3af804d20
+ Exe .text
+ INSTSELECTOR: instruction to be included xor ebp, ebp
+ ins:xor ebp, ebp
+ reg:ebp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r9, rdx
+ ins:mov r9, rdx
+ reg:r9
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rsi
+ ins:pop rsi
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdx, rsp
+ ins:mov rdx, rsp
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included and rsp, 0xfffffffffffffff0
+ ins:and rsp, 0xfffffffffffffff0
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rax
+ ins:push rax
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rsp
+ ins:push rsp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r8, ptr [rip+0x110ca]
+ ins:lea r8, ptr [rip+0x110ca]
+ reg:r8
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rcx, ptr [rip+0x11053]
+ ins:lea rcx, ptr [rip+0x11053]
+ reg:rcx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rip-0x1f4]
+ ins:lea rdi, ptr [rip-0x1f4]
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push r15
+ ins:push r15
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r14
+ ins:push r14
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r15, rdx
+ ins:mov r15, rdx
+ reg:r15
+ Exe .text
+ INSTSELECTOR: instruction to be included push r13
+ ins:push r13
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r12
+ ins:push r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r12, ptr [rip+0x2064ae]
+ ins:lea r12, ptr [rip+0x2064ae]
+ reg:r12
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rbp, ptr [rip+0x2064ae]
+ ins:lea rbp, ptr [rip+0x2064ae]
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r13d, edi
+ ins:mov r13d, edi
+ reg:r13d
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r14, rsi
+ ins:mov r14, rsi
+ reg:r14
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rbp, r12
+ ins:sub rbp, r12
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x8
+ ins:sub rsp, 0x8
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included sar rbp, 0x3
+ ins:sar rbp, 0x3
+ reg:rbp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test rbp, rbp
+ ins:test rbp, rbp
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor ebx, ebx
+ ins:xor ebx, ebx
+ reg:ebx
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdx, r15
+ ins:mov rdx, r15
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rsi, r14
+ ins:mov rsi, r14
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edi, r13d
+ ins:mov edi, r13d
+ reg:edi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, rsp
+ ins:mov rbp, rsp
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rip+0x218789]
+ ins:lea rdi, ptr [rip+0x218789]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rsi, ptr [rip+0x218782]
+ ins:lea rsi, ptr [rip+0x218782]
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsi, rdi
+ ins:sub rsi, rdi
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, rsp
+ ins:mov rbp, rsp
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included sar rsi, 0x3
+ ins:sar rsi, 0x3
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, rsi
+ ins:mov rax, rsi
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included shr rax, 0x3f
+ ins:shr rax, 0x3f
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsi, rax
+ ins:add rsi, rax
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included sar rsi, 0x1
+ ins:sar rsi, 0x1
+ reg:rsi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [rip+0x218529]
+ ins:mov rax, qword ptr [rip+0x218529]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included test rax, rax
+ ins:test rax, rax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rbp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rbp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rbx, 0x1
+ ins:add rbx, 0x1
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp rbp, rbx
+ ins:cmp rbp, rbx
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0x8
+ ins:add rsp, 0x8
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbx
+ ins:pop rbx
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r12
+ ins:pop r12
+ reg:r12
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r13
+ ins:pop r13
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r14
+ ins:pop r14
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r15
+ ins:pop r15
+ reg:r15
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x110
+ ins:sub rsp, 0x110
+ reg:rsp
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr fs:[0x28]
+ ins:mov rax, qword ptr fs:[0x28]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor eax, eax
+ ins:xor eax, eax
+ reg:eax
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rsp+0x40]
+ ins:lea rdi, ptr [rsp+0x40]
+ reg:rdi
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test eax, eax
+ ins:test eax, eax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rsp+0x40]
+ ins:lea rax, ptr [rsp+0x40]
+ reg:rax
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edi, 0x11
+ ins:mov edi, 0x11
+ reg:edi
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x130
+ ins:sub rsp, 0x130
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr fs:[0x28]
+ ins:mov rax, qword ptr fs:[0x28]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor eax, eax
+ ins:xor eax, eax
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x2085f2]
+ ins:lea rax, ptr [rip+0x2085f2]
+ reg:rax
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push r14
+ ins:push r14
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r13
+ ins:push r13
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included movsxd rdx, edi
+ ins:movsxd rdx, edi
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included push r12
+ ins:push r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, rdx
+ ins:mov rbp, rdx
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0xa0
+ ins:sub rsp, 0xa0
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr fs:[0x28]
+ ins:mov rax, qword ptr fs:[0x28]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor eax, eax
+ ins:xor eax, eax
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x20b1f1]
+ ins:lea rax, ptr [rip+0x20b1f1]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [rax+rdx*8]
+ ins:mov rax, qword ptr [rax+rdx*8]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included test rax, rax
+ ins:test rax, rax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor ebx, ebx
+ ins:xor ebx, ebx
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp byte ptr [rax], 0x0
+ ins:cmp byte ptr [rax], 0x0
+ reg:rflags
+ NORMAL FLAG REG: inst cmp byte ptr [rax], 0x0
+ Exe .text
+ INSTSELECTOR: instruction to be included setz bl
+ ins:setz bl
+ reg:bl
+ Exe .text
+ INSTSELECTOR: instruction to be included add ebx, 0x2
+ ins:add ebx, 0x2
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp ebp, 0x11
+ ins:cmp ebp, 0x11
+ reg:rflags
+ NORMAL FLAG REG: inst cmp ebp, 0x11
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, 0x2
+ ins:mov eax, 0x2
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included cmovz ebx, eax
+ ins:cmovz ebx, eax
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r12d, ptr [rbp-0x1]
+ ins:lea r12d, ptr [rbp-0x1]
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r13, ptr [rip+0x20daa3]
+ ins:lea r13, ptr [rip+0x20daa3]
+ reg:r13
+ Exe .text
+ INSTSELECTOR: instruction to be included movsxd r12, r12d
+ ins:movsxd r12, r12d
+ reg:r12
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx eax, byte ptr [r13+r12*1]
+ ins:movsx eax, byte ptr [r13+r12*1]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp al, 0x4
+ ins:cmp al, 0x4
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, dword ptr [rip+0x20d6ba]
+ ins:mov eax, dword ptr [rip+0x20d6ba]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included test eax, eax
+ ins:test eax, eax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp edx, 0x16
+ ins:cmp edx, 0x16
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rcx, ptr [rip+0x4752]
+ ins:lea rcx, ptr [rip+0x4752]
+ reg:rcx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edx, edx
+ ins:mov edx, edx
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included movsxd rax, dword ptr [rcx+rdx*4]
+ ins:movsxd rax, dword ptr [rcx+rdx*4]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included add rax, rcx
+ ins:add rax, rcx
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ebx, 0x1
+ ins:mov ebx, 0x1
+ reg:ebx
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp ebp, 0x11
+ ins:cmp ebp, 0x11
+ reg:rflags
+ NORMAL FLAG REG: inst cmp ebp, 0x11
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, 0x2
+ ins:mov eax, 0x2
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included cmovz ebx, eax
+ ins:cmovz ebx, eax
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r12d, ptr [rbp-0x1]
+ ins:lea r12d, ptr [rbp-0x1]
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r13, ptr [rip+0x20daa3]
+ ins:lea r13, ptr [rip+0x20daa3]
+ reg:r13
+ Exe .text
+ INSTSELECTOR: instruction to be included movsxd r12, r12d
+ ins:movsxd r12, r12d
+ reg:r12
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx eax, byte ptr [r13+r12*1]
+ ins:movsx eax, byte ptr [r13+r12*1]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp al, 0x4
+ ins:cmp al, 0x4
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp ebx, eax
+ ins:cmp ebx, eax
+ reg:rflags
+ NORMAL FLAG REG: inst cmp ebx, eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r14, rsp
+ ins:mov r14, rsp
+ reg:r14
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp ebx, 0x2
+ ins:cmp ebx, 0x2
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor eax, eax
+ ins:xor eax, eax
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp ebx, 0x3
+ ins:cmp ebx, 0x3
+ reg:rflags
+ NORMAL FLAG REG: inst cmp ebx, 0x3
+ Exe .text
+ INSTSELECTOR: instruction to be included setz al
+ ins:setz al
+ reg:al
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [r14+0x8]
+ ins:lea rdi, ptr [r14+0x8]
+ reg:rdi
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip-0x1ff]
+ ins:lea rax, ptr [rip-0x1ff]
+ reg:rax
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [r14+0x8]
+ ins:lea rdi, ptr [r14+0x8]
+ reg:rdi
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included xor edx, edx
+ ins:xor edx, edx
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rsi, r14
+ ins:mov rsi, r14
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edi, ebp
+ ins:mov edi, ebp
+ reg:edi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [rsp+0x98]
+ ins:mov rax, qword ptr [rsp+0x98]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included xor rax, qword ptr fs:[0x28]
+ ins:xor rax, qword ptr fs:[0x28]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0xa0
+ ins:add rsp, 0xa0
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbx
+ ins:pop rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r12
+ ins:pop r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r13
+ ins:pop r13
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r14
+ ins:pop r14
+ reg:rsp
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rip+0x208a69]
+ ins:lea rdi, ptr [rip+0x208a69]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r8, ptr [rip+0x209062]
+ ins:lea r8, ptr [rip+0x209062]
+ reg:r8
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x8
+ ins:sub rsp, 0x8
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r9d, 0xa41a41a5
+ ins:mov r9d, 0xa41a41a5
+ reg:r9d
+ Exe .text
+ INSTSELECTOR: instruction to be included lea r10, ptr [rdi+0x100]
+ ins:lea r10, ptr [rdi+0x100]
+ reg:r10
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdx, qword ptr [rdi+0x10]
+ ins:mov rdx, qword ptr [rdi+0x10]
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx esi, byte ptr [rdx]
+ ins:movzx esi, byte ptr [rdx]
+ reg:esi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ecx, esi
+ ins:mov ecx, esi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included shl ecx, 0x4
+ ins:shl ecx, 0x4
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp sil, 0x3d
+ ins:cmp sil, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test sil, sil
+ ins:test sil, sil
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdx, 0x1
+ ins:add rdx, 0x1
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx eax, byte ptr [rdx]
+ ins:movzx eax, byte ptr [rdx]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add ecx, esi
+ ins:add ecx, esi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mul r9d
+ ins:mul r9d
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [r8+rcx*8]
+ ins:mov rax, qword ptr [r8+rcx*8]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdi, 0x20
+ ins:add rdi, 0x20
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp rdi, r10
+ ins:cmp rdi, r10
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp al, 0x3d
+ ins:cmp al, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx esi, al
+ ins:movzx esi, al
+ reg:esi
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdx, 0x1
+ ins:add rdx, 0x1
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx eax, byte ptr [rdx]
+ ins:movzx eax, byte ptr [rdx]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add ecx, esi
+ ins:add ecx, esi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mul r9d
+ ins:mul r9d
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [r8+rcx*8]
+ ins:mov rax, qword ptr [r8+rcx*8]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdi, 0x20
+ ins:add rdi, 0x20
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp rdi, r10
+ ins:cmp rdi, r10
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mul r9d
+ ins:mul r9d
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [r8+rcx*8]
+ ins:mov rax, qword ptr [r8+rcx*8]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdi, 0x20
+ ins:add rdi, 0x20
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp rdi, r10
+ ins:cmp rdi, r10
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdx, qword ptr [rdi+0x10]
+ ins:mov rdx, qword ptr [rdi+0x10]
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx esi, byte ptr [rdx]
+ ins:movzx esi, byte ptr [rdx]
+ reg:esi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ecx, esi
+ ins:mov ecx, esi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included shl ecx, 0x4
+ ins:shl ecx, 0x4
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp sil, 0x3d
+ ins:cmp sil, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test sil, sil
+ ins:test sil, sil
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test eax, eax
+ ins:test eax, eax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x2959]
+ ins:lea rax, ptr [rip+0x2959]
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0x8
+ ins:add rsp, 0x8
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbx, qword ptr [rip+0x207d93]
+ ins:mov rbx, qword ptr [rip+0x207d93]
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdi, qword ptr [rbx]
+ ins:mov rdi, qword ptr [rbx]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included test rdi, rdi
+ ins:test rdi, rdi
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push r12
+ ins:push r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r12, rdi
+ ins:mov r12, rdi
+ reg:r12
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx ebx, byte ptr [rdi]
+ ins:movzx ebx, byte ptr [rdi]
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp bl, 0x5f
+ ins:cmp bl, 0x5f
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [rax]
+ ins:mov rax, qword ptr [rax]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, r12
+ ins:mov rbp, r12
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included test byte ptr [rax+rbx*2+0x1], 0x4
+ ins:test byte ptr [rax+rbx*2+0x1], 0x4
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, r12
+ ins:mov rbp, r12
+ reg:rbp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rbp, 0x1
+ ins:add rbp, 0x1
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx ebx, byte ptr [rbp]
+ ins:movzx ebx, byte ptr [rbp]
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included test bl, bl
+ ins:test bl, bl
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp bl, 0x5f
+ ins:cmp bl, 0x5f
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [rax]
+ ins:mov rax, qword ptr [rax]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included test byte ptr [rax+rbx*2], 0x8
+ ins:test byte ptr [rax+rbx*2], 0x8
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, rbp
+ ins:mov rax, rbp
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbx
+ ins:pop rbx
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r12
+ ins:pop r12
+ reg:r12
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rbp, 0x1
+ ins:add rbp, 0x1
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx ebx, byte ptr [rbp]
+ ins:movzx ebx, byte ptr [rbp]
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included test bl, bl
+ ins:test bl, bl
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp bl, 0x5f
+ ins:cmp bl, 0x5f
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdi, qword ptr [rbx]
+ ins:mov rdi, qword ptr [rbx]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp rdi, rax
+ ins:cmp rdi, rax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp byte ptr [rax], 0x3d
+ ins:cmp byte ptr [rax], 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rbx, 0x8
+ ins:add rbx, 0x8
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdi, qword ptr [rbx]
+ ins:mov rdi, qword ptr [rbx]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included test rdi, rdi
+ ins:test rdi, rdi
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov esi, 0x9
+ ins:mov esi, 0x9
+ reg:esi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included push r15
+ ins:push r15
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r14
+ ins:push r14
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r13
+ ins:push r13
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push r12
+ ins:push r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbp
+ ins:push rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included push rbx
+ ins:push rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rbp, rdi
+ ins:mov rbp, rdi
+ reg:rbp
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x8
+ ins:sub rsp, 0x8
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx edi, byte ptr [rdi]
+ ins:movzx edi, byte ptr [rdi]
+ reg:edi
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ecx, edi
+ ins:mov ecx, edi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included shl ecx, 0x4
+ ins:shl ecx, 0x4
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp dil, 0x3d
+ ins:cmp dil, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test dil, dil
+ ins:test dil, dil
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdx, rbp
+ ins:mov rdx, rbp
+ reg:rdx
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdx, 0x1
+ ins:add rdx, 0x1
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx eax, byte ptr [rdx]
+ ins:movzx eax, byte ptr [rdx]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add ecx, edi
+ ins:add ecx, edi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edx, 0xa41a41a5
+ ins:mov edx, 0xa41a41a5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx r12d, byte ptr [rip+0x20b4e9]
+ ins:movsx r12d, byte ptr [rip+0x20b4e9]
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mul edx
+ ins:mul edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included and r12d, 0x1
+ ins:and r12d, 0x1
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included or r12d, esi
+ ins:or r12d, esi
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rsi, rbp
+ ins:mov rsi, rbp
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x208f02]
+ ins:lea rax, ptr [rip+0x208f02]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ebx, r12d
+ ins:mov ebx, r12d
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rax+rcx*8]
+ ins:lea rdi, ptr [rax+rcx*8]
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp al, 0x3d
+ ins:cmp al, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx edi, al
+ ins:movzx edi, al
+ reg:edi
+ Exe .text
+ INSTSELECTOR: instruction to be included add rdx, 0x1
+ ins:add rdx, 0x1
+ reg:rdx
+ Exe .text
+ INSTSELECTOR: instruction to be included movzx eax, byte ptr [rdx]
+ ins:movzx eax, byte ptr [rdx]
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included add ecx, edi
+ ins:add ecx, edi
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included test al, al
+ ins:test al, al
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edx, 0xa41a41a5
+ ins:mov edx, 0xa41a41a5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx r12d, byte ptr [rip+0x20b4e9]
+ ins:movsx r12d, byte ptr [rip+0x20b4e9]
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mul edx
+ ins:mul edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included and r12d, 0x1
+ ins:and r12d, 0x1
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included or r12d, esi
+ ins:or r12d, esi
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rsi, rbp
+ ins:mov rsi, rbp
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x208f02]
+ ins:lea rax, ptr [rip+0x208f02]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ebx, r12d
+ ins:mov ebx, r12d
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rax+rcx*8]
+ ins:lea rdi, ptr [rax+rcx*8]
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edx, 0xa41a41a5
+ ins:mov edx, 0xa41a41a5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx r12d, byte ptr [rip+0x20b4e9]
+ ins:movsx r12d, byte ptr [rip+0x20b4e9]
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mul edx
+ ins:mul edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, ecx
+ ins:mov eax, ecx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included sub eax, edx
+ ins:sub eax, edx
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included and r12d, 0x1
+ ins:and r12d, 0x1
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included shr eax, 0x1
+ ins:shr eax, 0x1
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included or r12d, esi
+ ins:or r12d, esi
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rsi, rbp
+ ins:mov rsi, rbp
+ reg:rsi
+ Exe .text
+ INSTSELECTOR: instruction to be included add edx, eax
+ ins:add edx, eax
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rax, ptr [rip+0x208f02]
+ ins:lea rax, ptr [rip+0x208f02]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ebx, r12d
+ ins:mov ebx, r12d
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included shr edx, 0x5
+ ins:shr edx, 0x5
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included imul edx, edx, 0x27
+ ins:imul edx, edx, 0x27
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included sub ecx, edx
+ ins:sub ecx, edx
+ reg:ecx
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rax+rcx*8]
+ ins:lea rdi, ptr [rax+rcx*8]
+ reg:rdi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r10, qword ptr [rdi]
+ ins:mov r10, qword ptr [rdi]
+ reg:r10
+ Exe .text
+ INSTSELECTOR: instruction to be included test r10, r10
+ ins:test r10, r10
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx r11d, byte ptr [rsi]
+ ins:movsx r11d, byte ptr [rsi]
+ reg:r11d
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, rdi
+ ins:mov rax, rdi
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included xor edi, edi
+ ins:xor edi, edi
+ reg:edi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rcx, qword ptr [r10+0x10]
+ ins:mov rcx, qword ptr [r10+0x10]
+ reg:rcx
+ Exe .text
+ INSTSELECTOR: instruction to be included movsx edx, byte ptr [rcx]
+ ins:movsx edx, byte ptr [rcx]
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp r11d, edx
+ ins:cmp r11d, edx
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test r11d, r11d
+ ins:test r11d, r11d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, rdi
+ ins:mov rax, rdi
+ reg:rax
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r13, qword ptr [rax]
+ ins:mov r13, qword ptr [rax]
+ reg:r13
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r14, rax
+ ins:mov r14, rax
+ reg:r14
+ Exe .text
+ INSTSELECTOR: instruction to be included test r13, r13
+ ins:test r13, r13
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov ebx, dword ptr [r13+0x8]
+ ins:mov ebx, dword ptr [r13+0x8]
+ reg:ebx
+ Exe .text
+ INSTSELECTOR: instruction to be included test bl, 0x2
+ ins:test bl, 0x2
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test r12b, 0x80
+ ins:test r12b, 0x80
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test r12b, 0x80
+ ins:test r12b, 0x80
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov eax, r12d
+ ins:mov eax, r12d
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included and eax, 0x27
+ ins:and eax, 0x27
+ reg:eax
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp eax, 0x20
+ ins:cmp eax, 0x20
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included and r12d, 0x118
+ ins:and r12d, 0x118
+ reg:r12d
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp r12d, 0x100
+ ins:cmp r12d, 0x100
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov edi, 0x20
+ ins:mov edi, 0x20
+ reg:edi
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included sub rsp, 0x8
+ ins:sub rsp, 0x8
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test rax, rax
+ ins:test rax, rax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0x8
+ ins:add rsp, 0x8
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r13, rax
+ ins:mov r13, rax
+ reg:r13
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, qword ptr [r14]
+ ins:mov rax, qword ptr [r14]
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included test ebx, 0x118
+ ins:test ebx, 0x118
+ reg:rflags
+ NORMAL FLAG REG: inst test ebx, 0x118
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdi, rbp
+ ins:mov rdi, rbp
+ reg:rdi
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0x8
+ ins:add rsp, 0x8
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, r13
+ ins:mov rax, r13
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbx
+ ins:pop rbx
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop rbp
+ ins:pop rbp
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r12
+ ins:pop r12
+ reg:rsp
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r13
+ ins:pop r13
+ reg:r13
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r14
+ ins:pop r14
+ reg:r14
+ Exe .text
+ INSTSELECTOR: instruction to be included pop r15
+ ins:pop r15
+ reg:rsp
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rbx, 0x8
+ ins:add rbx, 0x8
+ reg:rbx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rdi, qword ptr [rbx]
+ ins:mov rdi, qword ptr [rbx]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included test rdi, rdi
+ ins:test rdi, rdi
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included lea rdi, ptr [rip+0x12f9]
+ ins:lea rdi, ptr [rip+0x12f9]
+ reg:rdi
+ Exe .text
+ INSTSELECTOR: instruction to be included xor edx, edx
+ ins:xor edx, edx
+ reg:edx
+ Exe .text
+ INSTSELECTOR: instruction to be included mov esi, 0x1
+ ins:mov esi, 0x1
+ reg:esi
+ Exe .text
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included test rax, rax
+ ins:test rax, rax
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included add rsp, 0x8
+ ins:add rsp, 0x8
+ reg:rsp
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r9d, r11d
+ ins:mov r9d, r11d
+ reg:r9d
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp edx, 0x3d
+ ins:cmp edx, 0x3d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp r9d, 0x3d
+ ins:cmp r9d, 0x3d
+ reg:rflags
+ NORMAL FLAG REG: inst cmp r9d, 0x3d
+ Exe .text
+ INSTSELECTOR: instruction to be included cmovz r9d, edi
+ ins:cmovz r9d, edi
+ reg:r9d
+ Exe .text
+ INSTSELECTOR: instruction to be included cmp edx, r9d
+ ins:cmp edx, r9d
+ reg:rflags
+ Exe .text
+ Exe .text
+ INSTSELECTOR: instruction to be included mov rax, r10
+ ins:mov rax, r10
+ reg:rax
+ Exe .text
+ INSTSELECTOR: instruction to be included mov r10, qword ptr [r10]
+ ins:mov r10, qword ptr [r10]
+ reg:r10
+ Exe .text
+ INSTSELECTOR: instruction to be included test r10, r10
+ ins:test r10, r10
+ reg:rflags
+ Exe .text
+ Exe .text
+ Exe .text
+ Exe .text

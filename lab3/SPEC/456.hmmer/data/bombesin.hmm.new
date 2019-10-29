@@ -8,7 +8,7 @@ RF    no
 CS    no
 MAP   yes
 COM   hmmbuild -F HMM_ls.ann SEED.ann
-COM   ../src/benchmark --fixed 0 --mean 325 --num 45000 --sd 200 --seed 0 bombesin.hmm
+COM   ./src/benchmark --fixed 0 --mean 325 --num 45000 --sd 200 --seed 0 data/bombesin.hmm
 NSEQ  25
 DATE  Sun Dec 15 22:22:43 2002
 CKSUM 9682
