@@ -1,0 +1,306 @@
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/instcategory.so -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 25
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/instcount.so -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 35
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 41
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 36
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 42
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 48
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 50
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 135
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 48
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 48
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 48
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 48
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 2
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 45
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 47
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 5
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 45
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 57
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 59
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 1
+	 time taken 7
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 56
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 51
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 46
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 45
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 40
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 1
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 2
+	 time taken 4
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 34
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 34
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 29
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 1
+	 time taken 3
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 25
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 24
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 24
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 24
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -6
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 24
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 1
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/alshan/CPE446/lab3/pin/pin -t /home/alshan/CPE446/lab3/pin/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/alshan/CPE446/lab3/SPEC/456.hmmer/run.sh 33 5
+	 program finish 0
+	 time taken 23

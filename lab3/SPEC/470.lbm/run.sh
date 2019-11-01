@@ -1,4 +1,3 @@
 #!/bin/sh
 
-cd data/
-../src/benchmark 20 reference.dat 0 1 100_100_130_cf_a.of
+./src/benchmark 20 data/reference.dat 0 1 data/100_100_130_cf_a.of

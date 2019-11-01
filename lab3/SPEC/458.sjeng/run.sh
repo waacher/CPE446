@@ -1,4 +1,3 @@
 #!/bin/sh
 
-cd data/
-../src/benchmark test.txt
+./src/benchmark data/test.txt
