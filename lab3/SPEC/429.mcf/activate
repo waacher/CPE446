@@ -105,3 +105,4 @@ Activated: Valid Reg name rdi in 0x55bedb8ea400
 Activated: Valid Reg name rdx in 0x5604136d1407
 Activated: Valid Reg name rsp in 0x55bd02f9b4d0
 Activated: Valid Reg name rflags in 0x55dc1d262411
+Activated: Valid Reg name r12 in 0x563fe1380ed9

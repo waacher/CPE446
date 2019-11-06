@@ -1,0 +1,229 @@
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/instcategory.so -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -6
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/instcount.so -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -7
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 2
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 2
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -2
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 21
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -7
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 2
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 21
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 19
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 20
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 22
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 23
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -6
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish -11
+	 time taken 1
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 22
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 21
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
+	 program finish 0
+	 time taken 21
+/home/andy/School/CPE446/lab3/pin-3.11/pin -t /home/andy/School/CPE446/lab3/pin-3.11/source/tools/pinfi/obj-intel64/faultinjection.so -fioption AllInst -- /home/andy/SPEC/401.bzip2/run.sh 33 5
